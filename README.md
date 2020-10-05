@@ -63,6 +63,14 @@ In the end trip duration chart display the activity by birth year and average of
 https://public.tableau.com/profile/rabia.zia#!/vizhome/Bikesharing_16014141803500/BikeSharingAnalysis?publish=yes
 
 
+![bike_utilization](https://user-images.githubusercontent.com/67460581/95141210-cf6ecd00-072d-11eb-9c88-ac8eed943f65.PNG)
+![checkout_time_byGender](https://user-images.githubusercontent.com/67460581/95141195-c7af2880-072d-11eb-88c1-c06998651a57.PNG)
+![Top_Locations](https://user-images.githubusercontent.com/67460581/95141218-d695db00-072d-11eb-880d-db1bc43bfd62.PNG)
+![trip_byuser_bygender](https://user-images.githubusercontent.com/67460581/95141225-d990cb80-072d-11eb-8216-72f0936833f9.PNG)
+![trip_duration-bybirthyear](https://user-images.githubusercontent.com/67460581/95141232-db5a8f00-072d-11eb-9ae7-0575416598d7.PNG)
+![Trips_byGender](https://user-images.githubusercontent.com/67460581/95141235-ddbce900-072d-11eb-9f6d-7331c2d9d69c.PNG)
+![Trips_perhour](https://user-images.githubusercontent.com/67460581/95141239-e01f4300-072d-11eb-8a37-00a0a5f0666b.PNG)
+![user_time_checout](https://user-images.githubusercontent.com/67460581/95141247-e31a3380-072d-11eb-9a98-4074495c994b.PNG)
 
 
 

@@ -9,25 +9,17 @@ Tableau is a powerful tool for visual presentation. It has a specific purpose: t
 ## Results:
 There are 8 visual slides that I prepared for the potential presentation:
 # Top Starting Locations:
+(https://user-images.githubusercontent.com/67460581/95141218-d695db00-072d-11eb-880d-db1bc43bfd62.PNG)
  
 The Top starting locations were determined by start station latitudes and end station longitudes. The colors specify the locations where the activity was most or less. Big circles show the most activity, the medium circle shows the medium activity and small shows less activity at those stations.
 
-
-
-
-
-
 # Bike Utilization:
- 
+(https://user-images.githubusercontent.com/67460581/95141210-cf6ecd00-072d-11eb-9c88-ac8eed943f65.PNG)
+
 The bike utilization was determined: Tripduration by colors and size marks and Bikeid.  The usage of bike is showed by colors and circles. The big circle shows the most usage of the bike and small shows the less usage. Colors also represent the usage of bikes.
 #Checkout Time for User:
   
 The checkout time for user presentation was determined with Tripduration by minute and hour, filtered by hours and minutes. This shows the number of user’s checkout the bike and how long the bike is checked out for.
-
-
-
-
-
 
 # Checkout Times by Gender:
  
@@ -63,9 +55,9 @@ In the end trip duration chart display the activity by birth year and average of
 https://public.tableau.com/profile/rabia.zia#!/vizhome/Bikesharing_16014141803500/BikeSharingAnalysis?publish=yes
 
 
-![bike_utilization](https://user-images.githubusercontent.com/67460581/95141210-cf6ecd00-072d-11eb-9c88-ac8eed943f65.PNG)
+![bike_utilization]
 ![checkout_time_byGender](https://user-images.githubusercontent.com/67460581/95141195-c7af2880-072d-11eb-88c1-c06998651a57.PNG)
-![Top_Locations](https://user-images.githubusercontent.com/67460581/95141218-d695db00-072d-11eb-880d-db1bc43bfd62.PNG)
+![Top_Locations]
 ![trip_byuser_bygender](https://user-images.githubusercontent.com/67460581/95141225-d990cb80-072d-11eb-8216-72f0936833f9.PNG)
 ![trip_duration-bybirthyear](https://user-images.githubusercontent.com/67460581/95141232-db5a8f00-072d-11eb-9ae7-0575416598d7.PNG)
 ![Trips_byGender](https://user-images.githubusercontent.com/67460581/95141235-ddbce900-072d-11eb-9f6d-7331c2d9d69c.PNG)

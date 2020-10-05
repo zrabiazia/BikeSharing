@@ -17,7 +17,8 @@ The Top starting locations were determined by start station latitudes and end st
 ![](https://user-images.githubusercontent.com/67460581/95141210-cf6ecd00-072d-11eb-9c88-ac8eed943f65.PNG)
 
 The bike utilization was determined: Tripduration by colors and size marks and Bikeid.  The usage of bike is showed by colors and circles. The big circle shows the most usage of the bike and small shows the less usage. Colors also represent the usage of bikes.
-#Checkout Time for User:
+
+# Checkout Time for User:
   
 The checkout time for user presentation was determined with Tripduration by minute and hour, filtered by hours and minutes. This shows the number of user’s checkout the bike and how long the bike is checked out for.
 
@@ -25,7 +26,7 @@ The checkout time for user presentation was determined with Tripduration by minu
  
 This graph was determined with Tripduration by minute and hour, Gender by color and filter.
 In this graph color shows the gender (unknown, male, female) usage by minute and hours. 
-#Trips by Weekday for Each hour:
+# Trips by Weekday for Each hour:
  
 This graph shows the trips for each day by hours. It was determined by start time with hour and stop time with weekday.
 
@@ -35,7 +36,7 @@ This graph shows the trips for each day by hours. It was determined by start tim
 # Trips by Gender (weekday per hour):
  
 This graph is showing the trips for everyday and each hour by gender (unknown, male, female).
-#User Trips by Gender by Weekday:
+# User Trips by Gender by Weekday:
  
 This presentation shows the trips for user’s (customer, subscriber) by everyday and gender (unknown, male, female)
 # Trip Duration by Birth year:

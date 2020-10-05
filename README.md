@@ -19,26 +19,31 @@ The Top starting locations were determined by start station latitudes and end st
 The bike utilization was determined: Tripduration by colors and size marks and Bikeid.  The usage of bike is showed by colors and circles. The big circle shows the most usage of the bike and small shows the less usage. Colors also represent the usage of bikes.
 
 # Checkout Time for User:
+![user_time_checout](https://user-images.githubusercontent.com/67460581/95141247-e31a3380-072d-11eb-9a98-4074495c994b.PNG)
   
 The checkout time for user presentation was determined with Tripduration by minute and hour, filtered by hours and minutes. This shows the number of user’s checkout the bike and how long the bike is checked out for.
 
 # Checkout Times by Gender:
+![checkout_time_byGender](https://user-images.githubusercontent.com/67460581/95141195-c7af2880-072d-11eb-88c1-c06998651a57.PNG)
  
 This graph was determined with Tripduration by minute and hour, Gender by color and filter.
 In this graph color shows the gender (unknown, male, female) usage by minute and hours. 
+
 # Trips by Weekday for Each hour:
+![Trips_perhour](https://user-images.githubusercontent.com/67460581/95141239-e01f4300-072d-11eb-8a37-00a0a5f0666b.PNG)
  
 This graph shows the trips for each day by hours. It was determined by start time with hour and stop time with weekday.
 
-
-
-
 # Trips by Gender (weekday per hour):
+![Trips_byGender](https://user-images.githubusercontent.com/67460581/95141235-ddbce900-072d-11eb-9f6d-7331c2d9d69c.PNG)
  
 This graph is showing the trips for everyday and each hour by gender (unknown, male, female).
+
 # User Trips by Gender by Weekday:
+![trip_byuser_bygender](https://user-images.githubusercontent.com/67460581/95141225-d990cb80-072d-11eb-8216-72f0936833f9.PNG)
  
 This presentation shows the trips for user’s (customer, subscriber) by everyday and gender (unknown, male, female)
+
 # Trip Duration by Birth year:
 ![](https://user-images.githubusercontent.com/67460581/95141232-db5a8f00-072d-11eb-9ae7-0575416598d7.PNG)
  
@@ -59,13 +64,13 @@ https://public.tableau.com/profile/rabia.zia#!/vizhome/Bikesharing_1601414180350
 
 
 
-![checkout_time_byGender](https://user-images.githubusercontent.com/67460581/95141195-c7af2880-072d-11eb-88c1-c06998651a57.PNG)
 
-![trip_byuser_bygender](https://user-images.githubusercontent.com/67460581/95141225-d990cb80-072d-11eb-8216-72f0936833f9.PNG)
 
-![Trips_byGender](https://user-images.githubusercontent.com/67460581/95141235-ddbce900-072d-11eb-9f6d-7331c2d9d69c.PNG)
-![Trips_perhour](https://user-images.githubusercontent.com/67460581/95141239-e01f4300-072d-11eb-8a37-00a0a5f0666b.PNG)
-![user_time_checout](https://user-images.githubusercontent.com/67460581/95141247-e31a3380-072d-11eb-9a98-4074495c994b.PNG)
+
+
+
+
+
 
 
 
